@@ -3,3 +3,12 @@
     CODE YOUR STYLES BELOW!
 
    ====================================== */
+
+.shadow-typo {
+    position: relative;
+    display: inline-block;
+    font-size: 5rem;
+    color: #00b3b4;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 0px #e7eef1, 8px 8px 0px rgba(0, 0, 0, 0.1);
+}
